@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-mergeDebugResources-46:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-main-49:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "com.aletorres.cursonavigationgraph.app-mergeDebugResources-46:/layout/fragment_first.xml",
+        "source": "com.aletorres.cursonavigationgraph.app-main-49:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-mergeDebugResources-46:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-main-49:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-mergeDebugResources-46:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-main-49:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "com.aletorres.cursonavigationgraph.app-mergeDebugResources-46:/layout/fragment_second.xml",
+        "source": "com.aletorres.cursonavigationgraph.app-main-49:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Alejandro Torres\\.gradle\\daemon\\8.0\\com.aletorres.cursonavigationgraph.app-main-49:\\layout\\activity_main.xml"
+    }
+]
